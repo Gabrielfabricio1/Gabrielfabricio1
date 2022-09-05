@@ -1,6 +1,6 @@
 # 👋 Oi,sou Gabriel
-## 👀 Estou,interessado em desenvolver jogos
-# 🌱 Estou,aprendendo sobre o html
+## 👀 Estou interessado em desenvolver jogos
+# 🌱 Estou aprendendo sobre o html
 ## 💞️ 
 # 📫 gabriel.fabricio@escola.pr.gov.br
 
